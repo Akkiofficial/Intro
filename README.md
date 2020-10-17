@@ -11,5 +11,6 @@ This is my second commit.
 
 
 `git pull`  - Pulls the latest code from remote.  
-`git checkout`  -   
+`git checkout <BRANCH_NAME>`  -  switches to the branch.  
+
 `git status`  - Tells the status of local system and tells the changes.  
